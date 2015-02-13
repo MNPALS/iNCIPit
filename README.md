@@ -1,7 +1,11 @@
-iNCIPit
+iNCIPit (supporting version 2.0)
 =======
 
-Inital version of ncip v.1 ncip responder for evergreen / open-ils
+A branch of iNCIPit : Inital version of ncip v.2 ncip responder for evergreen / open-ils
+
+PALS has been working on iNCIPit to make it work for East Central Regional Library (ECRL) Evergreen and MnLINK Gateway via the NCIP protocol version 2.0.
+
+We fixed 5 messages: RequestItem, CheckOutItem, CheckInItem, AcceptItem, and CancelRequestItem
 
 Initial configuration
 ---------------------
